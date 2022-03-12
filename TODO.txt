@@ -1,0 +1,4 @@
+
+# LARBS
+
+- Remove the "A" in the csv package. We can use the check on `pacman` and if the package it's not there, we can use `yay`
