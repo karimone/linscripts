@@ -84,3 +84,16 @@ else
     echo "Docker gia' installato"
 fi
 
+# install starship
+# curl -sS https://starship.rs/install.sh | sh
+# check /usr/local/bin/starship
+
+# some useful stuff
+sudo apt install ubuntu-restricted-extras p7zip-full p7zip-rar \
+    fonts-crosextra-caladea fonts-crosextra-carlito transmission
+
+sudo apt install calibre
+
+
+# bw cli
+# install and copy in ~/bin
